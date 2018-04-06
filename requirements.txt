@@ -1,0 +1,4 @@
+pyserial
+gspread
+oauth2client
+
